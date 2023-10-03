@@ -1,0 +1,21 @@
+/* flex space around */
+.flexSpaceAround{
+    display: flex;
+    justify-content: space-around;
+}
+/* text center */
+.textCenter{
+    text-align: center;
+}
+/* most outed expense div */
+.expenseContainer{
+background-color: aqua;
+border: 1px solid black;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+/* flex space between */
+.flexSpaceBetween{
+ display: flex;
+ justify-content: space-between;
+}
